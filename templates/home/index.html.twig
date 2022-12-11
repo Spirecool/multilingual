@@ -1,7 +1,15 @@
 {% extends 'base.html.twig' %}
 
-{% block title %}Hello HomeController!{% endblock %}
+{% block title %}Hello HomeController!
+{% endblock %}
 
 {% block body %}
-{% trans %} I'm 44 years old {% endtrans %}
+	<div class="container">
+		{% trans %}
+		<h1 class="my-5">Welcome to my Multilingual Website</h1>
+		{% endtrans %}
+		{% trans %}
+		<p>Using the Symfony Translation Component</p>
+		{% endtrans %}
+	</div>
 {% endblock %}
