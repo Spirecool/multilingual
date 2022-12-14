@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="U26KrHQ" resname="&lt;h1 class=&quot;my-5&quot;&gt;Welcome to my Multilingual Website&lt;/h1&gt;">
+        <source>&lt;h1 class="my-5"&gt;Welcome to my Multilingual Website&lt;/h1&gt;</source>
+        <target><![CDATA[<h1 class="my-5"> Bienvenido a mi sitio multilingüe</h1>]]></target>
+      </trans-unit>
+      <trans-unit id="RY0fwkV" resname="&lt;p&gt;Using the Symfony Translation Component&lt;/p&gt;">
+        <source>&lt;p&gt;Using the Symfony Translation Component&lt;/p&gt;</source>
+        <target><![CDATA[<p>Usando el componente de traducción de Symfony</p>]]></target>
+      </trans-unit>
+      <trans-unit id="OnhpU4i" resname="Home">
+        <source>Home</source>
+        <target>Inicio</target>
+      </trans-unit>
+      <trans-unit id="pqMtvFY" resname="Link">
+        <source>Link</source>
+        <target>Enlace</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
